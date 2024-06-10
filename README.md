@@ -33,8 +33,17 @@ The data is expected to be in a CSV file named `data.csv` with no header. It sho
 The code will generate the following outputs:
 
 1. A scatter plot of the training data (Population vs. Profit).
+
+![image](https://github.com/MinaNabil730/linear-regression-from-scratch/assets/109760458/3f86c326-41d3-4d69-8d22-f3c9d9cb54c1)
+
 2. A plot showing the fitted regression line over the training data.
+
+![image](https://github.com/MinaNabil730/linear-regression-from-scratch/assets/109760458/37494be7-463f-4e1f-9fb0-62c281c4a400)
+ 
 3. A plot of the cost function over the iterations of gradient descent.
+
+![image](https://github.com/MinaNabil730/linear-regression-from-scratch/assets/109760458/93156554-9dc9-4284-bff9-7c100a94fb4b)
+
 
 ## License
 
